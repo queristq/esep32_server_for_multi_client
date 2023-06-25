@@ -1,9 +1,5 @@
 # Import socket module
 import socket            
-import time
-
-def delay_5_seconds():
-  time.sleep(5)
 
 # Create a socket object
 s = socket.socket()        
